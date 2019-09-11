@@ -1,0 +1,9 @@
+<?php
+
+$files = scandir(".");
+//print_r($files);
+
+foreach($files as $f) {
+    if($f =="." || $f =="..") continue;
+    echo "파일명-", $f,"\n";
+}
