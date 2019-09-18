@@ -3,4 +3,3 @@
 
 화면캡처
 ![img](./images/img01.bmp)
-<img src="./images/img01.bmp"/>
