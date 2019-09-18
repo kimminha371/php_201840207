@@ -1,6 +1,13 @@
 ---
 layout: default
 ---
+
+<div class="jumbotron jumbotron-fluid">
+  <div class="container">
+    <h1 class="display-4">대림대학교 PHP 리포트 사이트</h1>
+    <p class="lead">김민하 201840207입니다.</p>
+  </div>
+</div>
 # 리포트 PHP_201840207
 
 ## 2019.08.28
